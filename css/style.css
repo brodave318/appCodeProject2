@@ -18,9 +18,21 @@
 #main {
   background: purple;
   padding: 50px;
+  width: 700px;
+  float: left;
+}
+
+#sidebar {
+  background: orange;
+  width: 200px;
+  float: left;
 }
 
 #footer {
   background: silver;
   padding: 50px;
+}
+
+img {
+  float: right;
 }
