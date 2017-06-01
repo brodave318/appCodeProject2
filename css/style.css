@@ -1,26 +1,26 @@
 /* Clear Class */
 .clear {
-	clear: both;
+  clear: both;
 }
 
 /* layout */
 
 #container {
- width: 1000px;
- margin: 0 auto 0 auto;
+  width: 1000px;
+  margin: 0 auto 0 auto;
 }
 
-#header{
-	background: blue;
-	padding: 50px;
+#header {
+  background: blue;
+  padding: 50px;
 }
 
 #main {
-	background: purple;
-	padding: 50px;
+  background: purple;
+  padding: 50px;
 }
 
 #footer {
-	background: silver;
-	padding: 50px;
+  background: silver;
+  padding: 50px;
 }
